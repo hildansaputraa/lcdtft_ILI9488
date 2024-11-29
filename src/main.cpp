@@ -1,11 +1,4 @@
 #include <Arduino.h>
-
-
-
-
-
-
-
 #include <TFT_eSPI.h> // Graphics and font library for ILI9341 driver chip
 #include <SPI.h>
 
